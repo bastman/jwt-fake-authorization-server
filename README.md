@@ -1,5 +1,8 @@
 # jwt-fake-authorization-server
 
+- authorization server: https://github.com/bastman/jwt-fake-authorization-server
+- resource server: https://github.com/bastman/spring-jwt-resource-server-example
+
 ## docker
 
 ```
