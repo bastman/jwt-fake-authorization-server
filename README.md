@@ -15,7 +15,7 @@ $ docker-compose up
 
 ```
 
-# endpoints
+## endpoints
 
 - swagger-ui: http://localhost:9000/swagger-ui.html
   
@@ -27,7 +27,7 @@ $ docker-compose up
     - generate rsa key pair (public, private)
     
 
-# use case: sign an arbitrary jwt payload
+## use case: sign an arbitrary jwt payload
 
 ```
 jwt payload to be signed ...
